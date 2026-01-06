@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+gunicorn
+easyocr
+celery
+redis
+python-multipart
+opencv-python-headless
+pydicom
+
+# for bug fix on transfer syntax errors
+pylibjpeg
+pylibjpeg-libjpeg
+python-gdcm

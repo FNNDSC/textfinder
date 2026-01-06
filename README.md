@@ -1,2 +1,1 @@
-# textfinder
-A simple FastAPI application to find text in DICOM pixel data
+## A FastAPI application to find text in DICOM pixel data
